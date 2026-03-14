@@ -1,7 +1,7 @@
 # ¡Hola! Soy Pedro Guifarro 👋 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guifmur98-github&label=Perfil%20Visto&color=0e75b6&style=flat" alt="vistas" />
+  <img src="https://komarev.com/ghpvc/?username=GuifMur98-github&label=Perfil%20Visto&color=0e75b6&style=flat" alt="vistas" />
 </p>
 
 ---
