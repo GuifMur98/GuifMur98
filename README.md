@@ -1,4 +1,4 @@
-# ¡Hola! Soy Pedro 👋 
+# ¡Hola! Soy Pedro Guifarro 👋 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guifmur98-github&label=Perfil%20Visto&color=0e75b6&style=flat" alt="vistas" />
@@ -45,7 +45,7 @@ Soy un apasionado de la **tecnología, la infraestructura y la música**. Me mue
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?guifmur98=DenverCoder1)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GuifMur98&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
