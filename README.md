@@ -45,7 +45,7 @@ Soy un apasionado de la **tecnología, la infraestructura y la música**. Me mue
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?guifmur98-github&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?guifmur98=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 ---
